@@ -12,6 +12,10 @@
         margin-top: 50px;        
     }
 
+    .menu li{
+        padding: 33px 0;
+    }
+
      .menu li:last-child{
         margin-top: 20px; 
     }
